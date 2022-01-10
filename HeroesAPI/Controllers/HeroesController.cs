@@ -1,5 +1,5 @@
 ﻿using HeroesAPI.Data;
-using HeroesAPI.Model;
+using Commons.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -18,7 +18,7 @@ namespace HeroesAPI.Controllers
             _serverHealty = new ServerHealth();
             _serverHealty.Info = "First release of HeroesAPI.";
             _serverHealty.isHealty = true;
-            _serverHealty.Version = 1.0;
+            _serverHealty.Version = "1.0.0";
         }
 
         [HttpGet("Health")]

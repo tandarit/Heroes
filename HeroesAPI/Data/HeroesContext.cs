@@ -1,4 +1,4 @@
-﻿using HeroesAPI.Model;
+﻿using Commons.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace HeroesAPI.Data

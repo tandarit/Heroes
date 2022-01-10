@@ -1,4 +1,4 @@
-﻿namespace HeroesAPI.Model
+﻿namespace Commons.Models
 {
     public class HeroValue
     {

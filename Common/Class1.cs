@@ -1,4 +1,4 @@
-﻿namespace Common
+﻿namespace Commons
 {
     public class Class1
     {

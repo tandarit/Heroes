@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeroesAPI", "HeroesAPI\Hero
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeroesWpf", "HeroesWpf\HeroesWpf.csproj", "{39BAC5E7-0949-48E4-8EAC-5DD5B42FA003}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{B91C67DD-964E-4E30-BFD1-23269CA427DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Commons", "Common\Commons.csproj", "{B91C67DD-964E-4E30-BFD1-23269CA427DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
